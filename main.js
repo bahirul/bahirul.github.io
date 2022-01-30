@@ -8,6 +8,10 @@ const projects = [
     {
         name: "Typing Text JS",
         link: "/typing-text"
+    },
+    {
+        name: "Section Divider",
+        link: "/section-divider"
     }
 ]
 

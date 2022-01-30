@@ -100,13 +100,12 @@ a {
 
 #projects{
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
     padding: 4rem 0;
 }
 
 .project__link {
     color: #FFF;
-    text-decoration: underline;
 }
 
 .project__contact{
