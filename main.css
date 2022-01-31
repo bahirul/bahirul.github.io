@@ -83,9 +83,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-left: min(10vh, 20px);
-    padding-right: min(10vh, 20px);
-    min-height: 100vh;
+    padding: min(10vh, 20px) min(10vh, 20px);
 }
 
 a {
